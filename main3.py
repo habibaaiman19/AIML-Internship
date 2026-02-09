@@ -1,2 +1,2 @@
 file = open("example.txt","r")
-file.close()
+print(file.read())
