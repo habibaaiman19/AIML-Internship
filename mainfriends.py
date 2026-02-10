@@ -4,3 +4,5 @@ with open("friends.txt","w")as f:
         f.write(name+"\n")
         print("friend names saved to friends.txt")
 
+search_name = input("enter name to search: ")
+with open("friends")
